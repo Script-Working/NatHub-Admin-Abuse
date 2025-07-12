@@ -1,3 +1,2 @@
-game:GetService("ReplicatedStorage").Modules.UpdateService.NewPetStand.Parent = workspace.NPCS
-workspace.NPCS["Pet Stand"]:Destroy()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-Working/loadscreen/refs/heads/main/Pet%20Duper/Egg%20Random"))()
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/oEmItd1wnh/0", true))()
